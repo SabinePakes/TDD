@@ -1,0 +1,26 @@
+{
+    "name": "TDD",
+    "version": "1.0.0",
+    "description": "",
+    "main": "farm.js",
+    "scripts": {
+        "test": "jest --watchAll"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SabinePakes/TDD"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SabinePakes/TDD"
+    },
+    "homepage": "https://github.com/SabinePakes/TDD/blob/main/README.md",
+    "dependencies": {
+        "jest": "29.0"
+    },
+    "bundleDependencies": [
+        "jest"
+    ]
+}
